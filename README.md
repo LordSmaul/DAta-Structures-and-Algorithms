@@ -12,4 +12,4 @@ Program 3: Brute Force solution to the Traveling Salesman Problem by finding the
 
 Program 4: Recursive decrease-and-conquer approach to finding the largest number in a vector from file input.
 
-Program 5: Calculating the Levenshtein distance (aka edit distance) between two input strings.
+Program 5: Calculating the Levenshtein distance (aka edit distance) between two input strings using a Dynamic Programming technique.
