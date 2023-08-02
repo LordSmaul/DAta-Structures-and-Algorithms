@@ -7,7 +7,7 @@ ___
 
 Program 1: Recursive implementation of the Euclidian algorithm for calculating the Greatest Common Divisor (GCD) between two user input numbers.
 
-Program 2: Brute force algorithm for finding the largest number in a vector from file input. <br> > I wrote a separate file that inserts numbers into a .txt file as a way of randomizing the tests myself. </br>
+Program 2: Brute force algorithm for finding the largest number in a vector from file input. <br> > I wrote a separate file (`fileinput.cpp`) that inserts numbers into a .txt file as a way of randomizing the tests myself. </br>
 
 Program 3: Brute Force solution to the Traveling Salesman Problem by finding the Hamiltonian cycle of least cost for an input graph, should one exist. The graph input is obtained from a .txt file and is stored in an adjacency matrix.
 
